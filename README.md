@@ -1,4 +1,4 @@
-# 🐾 PetBuddy – Pet Care Mobile App UI Design
+# 🐶 PetBuddy – Pet Care Mobile App UI Design 🐾
 
 **PetBuddy** is a creative and user-friendly mobile application focused on pet care. This project showcases the **UI design** of the app, created using **Android Studio XML layouts**. It emphasizes smooth navigation, appealing visuals, and intuitive user interaction.
 
